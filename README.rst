@@ -72,7 +72,12 @@ Configuration
 -------------
 You can find all configuration in (default.conf) file, 
 you can edit them according to your preference(EX: batch size, mel bins ect.).
+ 
 
+GitHub link
+-------------
+
+https://github.com/ahmedamein100/Incorporating-Auxiliary-Data-for-Urban-Sound-Tagging-System-PANN-MAX
 
 Copyright
 ---------
